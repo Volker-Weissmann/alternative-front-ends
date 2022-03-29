@@ -87,7 +87,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [uYouPlus](https://github.com/qnblackcat/uYouPlus): uYouPlus (uYou+) is an alternative YouTube app for Apple's iOS and iPadOS
 
-- [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext): SmartTubeNext is an advanced YouTube app for Android TVs and TV boxes, free and open source. It is not a live TV client and does not support "YouTube TV"
+- [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext): SmartTubeNext is an adYouTube app for Android TVs and TV boxes, free and open source. It is not a live TV client and does not support "YouTube TV"
 
 - [TubeSync](https://github.com/meeb/tubesync): TubeSync is a PVR (personal video recorder) for YouTube. It syncs YouTube channels and playlists to a locally hosted media server
 
@@ -358,6 +358,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Official website with install instructions: https://vancedapp.com
   - Note: The source code of Youtube Vanced is not available under a free/open-source license.
   - For an explanation about the origin of Youtube Vanced see here: https://old.reddit.com/r/Vanced/comments/o3xm9m/if_youtube_vanced_isnt_open_source_and_doesnt/h2ec7wf/
+  - The project was forced to shutdown by google. https://github.com/ReVancedTeam is a project aimed to continue its legacy.
 
 ## About this repository
 
